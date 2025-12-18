@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "人生の針",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2025-12-18T14:08:21.554516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生の針",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_人生の針_Gesu_no_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人生の針",
+      "artist": "Gesu No Kiwami Otome",
+      "has_synced": true,
+      "path": "select/02_人生の針_Gesu_No_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生の針",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_人生の針_ゲスの極み乙女。.txt"
+    }
+  ]
+}
